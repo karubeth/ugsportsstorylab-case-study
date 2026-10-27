@@ -71,11 +71,12 @@ I rebuilt a small standalone version of this pipeline, with none of the project 
 
 ## My role
 
-I was one of six developers on the backend and its integrations. I:
+I was the team lead and backend lead  on a team of five developers who worked on the sports lab. I:
 
 - built the payment integration and the payment-to-earnings logic
 - integrated and debugged the HLS pipeline end to end (the individual FFmpeg stages were built by teammates)
 - wrote the analytics and dispute features, and the integration tests listed above
+- owned the sponsor dashboard end to end, from backend to frontend (the platform has four role-based dashboards, and teammates owned the others)
 - fixed bugs across the stack, including some on the React frontend
 
 ## Stack
